@@ -1,0 +1,11 @@
+{
+  "port": 5180,
+  "required": [
+    "package.json",
+    "vite.config.js",
+    "index.html",
+    "src/main.js",
+    "src/style.css"
+  ],
+  "external_model_fetch": false
+}
